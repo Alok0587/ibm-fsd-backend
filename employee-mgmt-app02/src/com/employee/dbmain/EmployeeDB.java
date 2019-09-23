@@ -1,4 +1,7 @@
+package com.employee.dbmain;
 import java.util.Scanner;
+
+import com.employee.service.EmployeeService;
 class EmployeeDB
 {
 
